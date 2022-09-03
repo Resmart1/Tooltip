@@ -1,0 +1,10 @@
+.my-tooltip {
+	color: red;
+	font-weight: 900;
+ }
+ 
+ .my-tooltip__projection {
+	background: white;
+	border: 1px solid black;
+ }
+ 
